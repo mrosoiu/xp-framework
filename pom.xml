@@ -128,9 +128,9 @@
 
   <!-- Source code management -->
   <scm>
-    <connection>scm:git:git://github.com/xp-framework/xp-framework.git</connection>
-    <developerConnection>scm:git:git@github.com:xp-framework/xp-framework.git</developerConnection>
-    <url>https://github.com/xp-framework/xp-framework</url>
+    <connection>scm:git:git://github.com/mrosoiu/xp-framework.git</connection>
+    <developerConnection>scm:git:git@github.com:mrosoiu/xp-framework.git</developerConnection>
+    <url>https://github.com/mrosoiu/xp-framework</url>
   </scm>
 
   <!-- Issue management -->
